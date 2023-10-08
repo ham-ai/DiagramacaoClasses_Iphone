@@ -18,7 +18,7 @@ public class AparelhoTelefonico implements Iphone {
 
     public void iniciarCorreioVoz() {
         // TODO implement here
-        System.out.println("Você ouvirá a mensagem deixada no seu correio de voz!");
+        System.out.println("Você está ouvindo a mensagem deixada no seu correio de voz!"  );
     }
 
 }
